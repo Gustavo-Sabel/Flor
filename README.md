@@ -24,20 +24,24 @@ project-root/
 
 ```
 
-🌼 Comandos Utilizados (HTML)<br>
-Comando	Descrição<br>
----
-div	Define a estrutura da flor
-span	Utilizado para as pétalas e centro
-h1	Cabeçalho principal da página
----
-🎨 Comandos Utilizados (CSS)
-Comando	Descrição
-border-radius	Cria formas circulares para pétalas
-transform	Rotaciona e posiciona as pétalas
-animation	Anima o crescimento da flor
-📂 Como Executar o Projeto
+<h2>🌼 Comandos Utilizados (HTML)</h2><br>
 
+| Comando   | Descrição                          |
+|-----------|------------------------------------|
+| `div`  | Define a estrutura da flor  |
+| `span`  | Utilizado para as pétalas e centro  |
+| `section` | Cabeçalho principal da página   |
+
+---
+<h2>🎨 Comandos Utilizados (CSS)</h2><br>
+
+| Comando   | Descrição                          |
+|-----------|------------------------------------|
+| `border-radius`  | Cria formas circulares para pétalas  |
+| `transform`  | Rotaciona e posiciona as pétalas  |
+| `animation` | Anima o crescimento da flor   |
+
+<h2>📂 Como Executar o Projeto</h2>
 
 <h2>Clone o repositório: </h2>
 
@@ -52,6 +56,6 @@ Abra o arquivo index.html no seu navegador preferido.
 
 
 <h2>📞 Contato </h2><br>
-Email: seu-email@example.com <br>
-LinkedIn: Seu Perfil <br>
-GitHub: seu-usuario <br>
+Email: gustavosouzasabel04@gmail.com <br>
+LinkedIn: Gustavo de Souza Sabel <br>
+GitHub: Gustavo-Sabel <br>
