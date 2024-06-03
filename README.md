@@ -15,13 +15,16 @@
 ## 📜 Estrutura do Projeto
 
 ```plaintext
-project-root/
-├── index.html
-├── styles/
+Flor-Web/
+├── img/
+│   └── flor.avif
+│   └── heart.avif
+├── music/
+│   └── music.mp3
+├── public/css/
 │   └── main.css
-└── scripts/
-    └── main.js
-
+└── index.html
+└── main.js
 ```
 
 <h2>🌼 Comandos Utilizados (HTML)</h2><br>
